@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap");
 
 body {
-  background: linear-gradient(236.85deg, #0f0
+  background: linear-gradient(236.85deg, #008080
   27.26%, #00CED1);
   font-family: "Roboto", sans-serif;
   
-  display: flex;
 
-  justify-content: center;
+
+
 }
 
 .AfiliadosTB{
