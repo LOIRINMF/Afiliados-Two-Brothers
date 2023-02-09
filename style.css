@@ -5,7 +5,7 @@ body {
   27.26%, #00CED1);
   font-family: "Roboto", sans-serif;
   
-  justify-content: center;
+
 }
 
 .AfiliadosTB{
@@ -14,11 +14,11 @@ body {
 }
 
 .Escop{
-  background: #0F0;
+  background: #B0E0E6;
   borde-radius: 25px;
   box-shadow: 6px 6px 10px #0f0;
   
-  justify-content: center;
+
 }
 
 .OutraC .Escop {
