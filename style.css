@@ -4,6 +4,10 @@ body {
   background: linear-gradient(236.85deg, #008080
   27.26%, #00CED1);
   font-family: "Roboto", sans-serif;
+  
+  display: flex;
+
+  justify-content: center;
 }
 
 .AfiliadosTB{
