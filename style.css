@@ -5,7 +5,7 @@ body {
   27.26%, #00CED1);
   font-family: "Roboto", sans-serif;
   
-
+display: flex;
 }
 
 .AfiliadosTB{
