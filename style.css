@@ -1,0 +1,175 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap");
+
+body {
+  background: linear-gradient(236.85deg, #008080 27.26%, #00CED1);
+  font-family: "Roboto", sans-serif;
+    
+  display: flex;
+  
+}
+.OutraC {
+  background: linear-gradient(236.85deg, #2F4F4F 27.26%, #008080 91.03%);
+}
+
+.Escop{
+  background: #B0E0E6;
+  borde-radius: 25px;
+  box-shadow: 6px 6px 10px #0f0;
+  
+  text-align: center;
+}
+.OutraC .Escop {
+  background: #00CED1;
+  color: #f6f6f6;
+  box-shadow: 6px 6px 10px #00f;
+}
+
+.BigB {
+  background: #7FFFD4;
+  
+  display: flex;
+  justify-content: space-around;
+  }
+.OutraC .BigB {
+  background: #008080;
+}
+
+
+/*  Os "H" */
+h1 {
+  color: #1E90FF;
+  
+  font-size: 70px; 
+  margin: 0px 0px 30px;
+}
+.OutraC h1 {
+  color: #6959CD;
+}
+
+h2 {
+  background: #6495ED;
+  font-size: 30px;
+  
+  display: flex;
+  justify-content: center;
+}
+.OutraC h2 {
+  background: #00008B;
+}
+
+.NomeEp {
+  background: #008B8B;
+  font-size: 25px;
+}
+.OutraC .NomeEp {
+  background: #8FBC8F;
+  color: #fff;
+}
+
+.Compra {
+  list-syle-type: none;
+  text-decoration: none;
+  
+  font-size: 25px;
+  color: #000;
+  
+  background: #E6E6FA;
+  box-shadow: 6px 6px 7px #32CD32;
+  
+  display: flex;
+  justify-content: center;
+}
+.OutraC .Compra {
+  color: #fff;
+  
+  background: #BC8F8F;
+  box-shadow: 6px 6px 7px #8FBC8F;
+}
+
+/* BTNs */
+.Btn button {
+  background: #E6E6FA;
+  border-radius: 105px;
+  box-shadow: 6px 6px 6px #000;
+  align-self: center;
+  
+  color: #708090;
+  font-size:18px;
+  font-weight: 300;
+  border: 4px solid #000;
+}
+.OutraC .Btn button {
+  background: #BC8F8F;
+  
+  box-shadow: 6px 6px 10px #8FBC8F;
+  color: #fff;
+}
+
+.Tema{
+  display: flex;
+  justify-content: flex-end;
+}
+.Tema button {
+  align-self: flex-end;
+  
+  font-size: 25px;
+  font-weight: 410;
+  padding: 6px 10px 6px;
+  margin: 0px 20px 20px;
+  background: #B0C4DE;
+  
+  box-shadow: 6px 6px 6px #000;
+  color: #000;
+  border-radius: 105px;
+  border: 4px solid #000;
+}
+.OutraC .Tema button {
+  background: #2F4F4F;
+  color: #fff;
+  
+  border: 4px solid #8FBC8F;
+  box-shadow: 6px 6px 10px #8FBC8F;
+}
+
+/* aqui ok */
+.SobreN {
+  font-size: 20px;
+}
+
+.APet {
+  font-size: 13px;
+  color: #00f;
+  
+  display: flex;
+  justify-content: flex-end;
+}
+
+.Assist {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.Assist a {
+  list-syle-type: none;
+  text-decoration: none;
+  align-self: flex-end;
+  
+  font-size: 25px;
+  font-weight: 410;
+  padding: 6px 10px 6px;
+  margin: 0px 20px 20px;
+  background: #B0C4DE;
+  
+  box-shadow: 6px 6px 6px #000;
+  color: #000;
+  border-radius: 105px;
+  border: 4px solid #000;
+}
+.OutraC .Assist a {
+  background: #2F4F4F;
+  box-shadow: 6px 6px 6px #8FBC8F;
+  border: 4px solid #8FBC8F;
+  
+  color: #fff;
+}
+/**/
