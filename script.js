@@ -50,19 +50,19 @@ var P2 = {
   Compre: "https://hotm.art/MundoPets"
 };
 var P3 = {
-  Img: "https://static-media.hotmart.com/y-D1Bl_6zYoWAPB1UETdhLZLgeE=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/d51e6abb-c2a8-4a54-aaea-c2c599f520a6/123.JPG?w=920",
-  Nome: "COMO TREINA SEU CÃO",
-  Preco: "ﾠR$15,00",
+  Img: "https://static-media.hotmart.com/-6uhZ-jRZXR0tVHBrSw3KrlgITo=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/6f891d39-ddb2-4f7a-8e12-9a38e6fa100b/8hAlimentar830hPasseioGastodeenergiafsico9hEAGastodeenergiaMental.png?w=920",
+  Nome: "Planilha de Treino Cão Bem Resolvido",
+  Preco: "ﾠR$24,00",
   
-  DisAntes: "Neste e-book, você aprenderá dicas e truques para treinar, ensinar, passear com seu doguinho",
-  DisDepois: "Assim como os humanos, os cães passam por uma série de desenvolvimentos cognitivos. Os filhotes de cachorro, <br><br> como bebês, aprendem a interagir com o mundo ao redor deles em cerca de oito semanas de idade. Eles aprendem comportamentos, imitam cedo na vida, por isso, se você tiver um cão bem-comportado seu cachorro pode aprender com ele.",
+  DisAntes: "O planejador de treino cão bem resolvido,",
+  DisDepois: "vai te auxiliar para ter um melhor desempenho com o seu cão durante os treinos e saber exatamente o que fazer durante a sua rotina para ter um processo mais rápido e eficaz com o seu cão.",
   
   Pontos: "PC",
   Sobre: "SC",
   Funcao: "FC",
   Btn: "BC",
   
-  Compre: "https://hotm.art/ComotreinaSeuPet"
+  Compre: "https://hotm.art/PlanilhaDeTreinoCao"
 };
 var P4 = {
   Img: "https://static-media.hotmart.com/k1M3rNpj81XbeseuY25_mXU8vyg=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/f5bcc443-a435-4618-b275-f51a3bf43eaa/mINIQuadrade.JPG?w=920",
@@ -115,7 +115,7 @@ var Pets2 = [P5,P6];
 
 //
 
-var P7 = {
+var /*P7 = {
   Img: "https://static-media.hotmart.com/Ec7v0j-6snSqZMyOhQNdTsdPbyM=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/c5d973c2-dbba-46dc-93bb-27611320b7f3/Semttulo1.jpg?w=920",
   Nome: "DO MARKETING AO MARKETING DIGITALﾠﾠﾠ",
   Preco: "R$97,00ﾠ",
@@ -129,7 +129,7 @@ var P7 = {
   Btn: "BG",
   
   Compre: "https://hotm.art/MarketingDIG"
-};
+};*/
 var P8 = {
   Img: "https://static-media.hotmart.com/4NaThWnZi3OIn7UEWZMu4j3TGK8=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/3e16fc0b-cfcd-4a03-a535-075bceb694cf/Designsemnome14.png?w=920",
   Nome: "TUDO SOBRE MARKETING",
@@ -176,7 +176,7 @@ var P10 = {
   Compre: "https://hotm.art/MMARKETINGG"
 };
 
-var Marketing = [P7,P8,P9,P10];
+var Marketing = [P8,P9,P10];
 
 //
 
@@ -210,7 +210,7 @@ var P12 = {
   
   Compre: "https://hotm.art/Queimegordura24h"
 };
-var P13 = {
+/*var P13 = {
   Img: "https://static-media.hotmart.com/gppeDbenEseuKVC416NlWQE6wQo=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/8042a75f-5f93-46ed-a4aa-03f6c4419286/Designsemnome20220708T172341743.png?w=920",
   Nome: "Método de Emagrecimento",
   Preco: "ﾠﾠﾠﾠR$97,99",
@@ -224,26 +224,26 @@ var P13 = {
   Btn: "BM",
   
   Compre: "https://hotm.art/MetodoDEmagrecimentoGDF"  
-};
+};*/
 
-var Saude = [P11,P12,P13];
+var Saude = [P11,P12];
 
 //
 
 var P14 = {
-  Img: "https://static-media.hotmart.com/sLbOHZZWX5e4_eIisRo8NcMXVsQ=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_contents/3c3be62d-70b4-4da2-b407-658d0841c32d/93886907_519353622091312_616793338481213440_n.jpg?w=920",
-  Nome: "COZINHA PARA QUEM NÃO COZINHAﾠﾠﾠ",
-  Preco: "ﾠR$29,99",
+  Img: "https://static-media.hotmart.com/pEIoPVjc60HgyTqXJbpfat0CXN0=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/0eaf4cfe-0701-4ced-946a-90f38dac3532/E683B7F055454F76905100D1D3962BAD.png?w=920",
+  Nome: "Confeitaria Renda",
+  Preco: "ﾠR$19,90",
   
-  DisAntes: "Você não vai aprender a fazer uma feijoada,",
-  DisDepois: "uma lasanha e nem um frango assado nesse livro. Tampouco vou te ensinar agora a usar a panela de pressão<br><br> Aqui vamos focar no básico. Esse E-book é a modalidade 1 da cozinha. O Cozinha Para Quem Não Cozinha é pra quem não sabe cozinhar absolutamente nada.<br><br> Eu vou mostrar que você pode SIM aprender a cozinhar e não vai levar mais que algumas horas para isso.",
+  DisAntes: "O E-book Confeitaria Renda,",
+  DisDepois: "é composto por um conjunto de apostilas onde ensinamos todo PASSO A PASSO para você fazer os melhores doces gourmet da atualidade e iniciar seu próprio negócio lucrativo. Ensinamos nossas receitas secretas e exclusivas.",
   
   Pontos: "PN",
   Sobre: "SN",
   Funcao: "FN",
   Btn: "BN",
   
-  Compre: "https://hotm.art/Cozinhapqncozinha"
+  Compre: "https://hotm.art/ConfeitariaRendaI"
 };
 var P15 = {
   Img: "https://static-media.hotmart.com/45qFNR84XFzXpYqHIIPzhMx_vl0=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/84e4917e-992e-4f93-8332-c5abc5587eda/cozinhasaudavel.png?w=920",
@@ -396,19 +396,19 @@ var RendaExx = [P23];
 //
 
 var P24 = {
-  Img: "https://static-media.hotmart.com/v8zV61snF5qKg8KFXvykvMalZXk=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_contents/3e042ddf-67be-42eb-bd71-0464112e0038/Screenshot_20210621211729_Canva.jpg?w=920",
-  Nome: "COMO JOGA XADREZ",
-  Preco: "ﾠR$4,90",
+  Img: "https://static-media.hotmart.com/P7usjK4-Tt80TLuUzvYiJQ1k1Ic=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/846f1e2a-5f52-4a2f-b59a-041df326b10a/capaXadrez.png?w=920",
+  Nome: "Curso de Xadrez Completo - Dominando Xadrez.",
+  Preco: "ﾠR$39,90",
   
-  DisAntes: "Aprenda tudo o que você precisa para dar seu primeiro Xeque mate.",
-  DisDepois: "Aprenda as jogadas especiais ( Roque grande e pequeno) en passo , Regras Básicas , dicas de Xeque e Xeque mate.<br><br> Imagens ilustrativas e linguagem de simples compreensão",
+  DisAntes: "Curso de Xadrez Completo - Dominando Xadrez.",
+  DisDepois: "Aprenda tudo que precisa para iniciar e evoluir no Xadrez. Ganhe mais partidas com total confiança!<br><br> confiança!Muitos alunos já estão colocando em prática tudo o que estão aprendendo neste EXATO MOMENTO no curso Dominando Xadrez, Só falta você!",
   
   Pontos: "PX",
   Sobre: "SX",
   Funcao: "FX",
   Btn: "BX",
   
-  Compre: "https://hotm.art/Comojgxadrez"
+  Compre: "https://hotm.art/CursoDeXadrezCompleto"
 }
 var P25 = {
   Img: "https://static-media.hotmart.com/SY_GY_Xz1sbbAnszRIwSNVYwOtM=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_contents/53e70067-394f-4f16-832d-9919aed7e559/CURSODEDAMASPARAINICIANTESLOGO600600.png?w=920",
@@ -484,7 +484,7 @@ var P28 = {
 var Financas = [P28]
 
 
-var TodosOsP = [P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,P12,P13,P14,P15,P16,P17,P18,P19,P20,P21,P22,P23,P24,P25,P26,P27,P28];
+var TodosOsP = [P1,P2,P3,P4,P5,P6,P8,P9,P10,P11,P12,P14,P15,P16,P17,P18,P19,P20,P21,P22,P23,P24,P25,P26,P27,P28];
 
 Tela()
 function Tela(){
