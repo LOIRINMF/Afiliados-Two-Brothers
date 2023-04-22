@@ -115,7 +115,7 @@ var Pets2 = [P5,P6];
 
 //
 
-var /*P7 = {
+/*var P7 = {
   Img: "https://static-media.hotmart.com/Ec7v0j-6snSqZMyOhQNdTsdPbyM=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/c5d973c2-dbba-46dc-93bb-27611320b7f3/Semttulo1.jpg?w=920",
   Nome: "DO MARKETING AO MARKETING DIGITALﾠﾠﾠ",
   Preco: "R$97,00ﾠ",
